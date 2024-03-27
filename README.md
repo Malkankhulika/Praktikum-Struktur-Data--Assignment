@@ -1,4 +1,4 @@
-## Praktikum Algoritma dan truktur Data
+## Praktikum Algoritma dan Struktur Data
 <pre>
 Nama   : Khulika Malkan
 Nim    : 2311110057
